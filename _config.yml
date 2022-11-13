@@ -19,12 +19,12 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Seraph                          # the main title
+title: qbwvwdp                          # the main title
 
-tagline: Dev Diary   # it will display as the sub-title
+tagline: Seraph's Dev Diary   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  For Better Than Yesterday.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://qbwvwdp.github.io/'
@@ -78,11 +78,11 @@ theme_mode:   # [light|dark]
 # Notice that once it is assigned, the CDN url
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
-# e.g. 'https://cdn.com'
-img_cdn: 'https://raw.githubusercontent.com/cotes2020/chirpy-images/main'
+# e.g. 'https://cdn.com' https://raw.githubusercontent.com/cotes2020/chirpy-images/main
+#img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
-avatar: '/assets/img/profile.png'
+avatar: /assets/img/profile.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true

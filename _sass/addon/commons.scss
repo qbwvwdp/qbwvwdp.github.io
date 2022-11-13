@@ -663,10 +663,10 @@ $sidebar-display: "sidebar-display";
   #avatar {
     > a {
       display: block;
-      width: 6rem;
+      width: 8rem;
       height: 6rem;
-      border-radius: 50%;
-      border: 2px solid rgba(222, 222, 222, 0.7);
+      border-radius: 0%;
+      border: 0px;//2px solid rgba(222, 222, 222, 0.7);
       overflow: hidden;
       -webkit-transform: translateZ(0);
       transform: translateZ(0); /* fixed the zoom in Safari */
@@ -699,7 +699,7 @@ $sidebar-display: "sidebar-display";
       font-weight: 900;
       font-size: 1.5rem;
       letter-spacing: 0.5px;
-      color: rgba(134, 133, 133, 0.99);
+      color: rgba(255, 255, 255, 0.99);
     }
   }
 
